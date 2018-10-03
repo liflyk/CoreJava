@@ -1,0 +1,3 @@
+shell:AppsFolder   Run Command for all application
+
+XGE2643146

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head><title>about|Home</title>
+<link rel="shortcut icon" href="images/favicon.ico">
+<metaencoding ="utf-8">
+<meta name="auther" content="Kp">
+<meta name="keyword" content="Best online shopping site, top 10 best shopping site in india">
+<meta name="description" content="any description">
+<meta http-equiv="refresh" content="any description">
+</head>
+<body>
+<header style="background-color:red; color:white; text-aling:center;  border_style:double"
+</html>
